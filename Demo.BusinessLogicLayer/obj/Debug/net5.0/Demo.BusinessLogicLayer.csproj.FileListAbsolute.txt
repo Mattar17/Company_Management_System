@@ -1,0 +1,15 @@
+D:\Route Course\Assignments\MVC\DemoMVC.G02\Demo.BusinessLogicLayer\bin\Debug\net5.0\Demo.BusinessLogicLayer.deps.json
+D:\Route Course\Assignments\MVC\DemoMVC.G02\Demo.BusinessLogicLayer\bin\Debug\net5.0\Demo.BusinessLogicLayer.dll
+D:\Route Course\Assignments\MVC\DemoMVC.G02\Demo.BusinessLogicLayer\bin\Debug\net5.0\Demo.BusinessLogicLayer.pdb
+D:\Route Course\Assignments\MVC\DemoMVC.G02\Demo.BusinessLogicLayer\bin\Debug\net5.0\Demo.DataAccessLayer.dll
+D:\Route Course\Assignments\MVC\DemoMVC.G02\Demo.BusinessLogicLayer\bin\Debug\net5.0\Demo.DataAccessLayer.pdb
+D:\Route Course\Assignments\MVC\DemoMVC.G02\Demo.BusinessLogicLayer\obj\Debug\net5.0\Demo.BusinessLogicLayer.csproj.AssemblyReference.cache
+D:\Route Course\Assignments\MVC\DemoMVC.G02\Demo.BusinessLogicLayer\obj\Debug\net5.0\Demo.BusinessLogicLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Route Course\Assignments\MVC\DemoMVC.G02\Demo.BusinessLogicLayer\obj\Debug\net5.0\Demo.BusinessLogicLayer.AssemblyInfoInputs.cache
+D:\Route Course\Assignments\MVC\DemoMVC.G02\Demo.BusinessLogicLayer\obj\Debug\net5.0\Demo.BusinessLogicLayer.AssemblyInfo.cs
+D:\Route Course\Assignments\MVC\DemoMVC.G02\Demo.BusinessLogicLayer\obj\Debug\net5.0\Demo.BusinessLogicLayer.csproj.CoreCompileInputs.cache
+D:\Route Course\Assignments\MVC\DemoMVC.G02\Demo.BusinessLogicLayer\obj\Debug\net5.0\Demo.Bus.95771080.Up2Date
+D:\Route Course\Assignments\MVC\DemoMVC.G02\Demo.BusinessLogicLayer\obj\Debug\net5.0\Demo.BusinessLogicLayer.dll
+D:\Route Course\Assignments\MVC\DemoMVC.G02\Demo.BusinessLogicLayer\obj\Debug\net5.0\refint\Demo.BusinessLogicLayer.dll
+D:\Route Course\Assignments\MVC\DemoMVC.G02\Demo.BusinessLogicLayer\obj\Debug\net5.0\Demo.BusinessLogicLayer.pdb
+D:\Route Course\Assignments\MVC\DemoMVC.G02\Demo.BusinessLogicLayer\obj\Debug\net5.0\ref\Demo.BusinessLogicLayer.dll

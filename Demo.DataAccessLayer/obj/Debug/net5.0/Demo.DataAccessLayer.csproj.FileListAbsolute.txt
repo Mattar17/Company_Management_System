@@ -1,0 +1,12 @@
+D:\Route Course\Assignments\MVC\DemoMVC.G02\Demo.DataAccessLayer\bin\Debug\net5.0\Demo.DataAccessLayer.deps.json
+D:\Route Course\Assignments\MVC\DemoMVC.G02\Demo.DataAccessLayer\bin\Debug\net5.0\Demo.DataAccessLayer.dll
+D:\Route Course\Assignments\MVC\DemoMVC.G02\Demo.DataAccessLayer\bin\Debug\net5.0\Demo.DataAccessLayer.pdb
+D:\Route Course\Assignments\MVC\DemoMVC.G02\Demo.DataAccessLayer\obj\Debug\net5.0\Demo.DataAccessLayer.csproj.AssemblyReference.cache
+D:\Route Course\Assignments\MVC\DemoMVC.G02\Demo.DataAccessLayer\obj\Debug\net5.0\Demo.DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Route Course\Assignments\MVC\DemoMVC.G02\Demo.DataAccessLayer\obj\Debug\net5.0\Demo.DataAccessLayer.AssemblyInfoInputs.cache
+D:\Route Course\Assignments\MVC\DemoMVC.G02\Demo.DataAccessLayer\obj\Debug\net5.0\Demo.DataAccessLayer.AssemblyInfo.cs
+D:\Route Course\Assignments\MVC\DemoMVC.G02\Demo.DataAccessLayer\obj\Debug\net5.0\Demo.DataAccessLayer.csproj.CoreCompileInputs.cache
+D:\Route Course\Assignments\MVC\DemoMVC.G02\Demo.DataAccessLayer\obj\Debug\net5.0\Demo.DataAccessLayer.dll
+D:\Route Course\Assignments\MVC\DemoMVC.G02\Demo.DataAccessLayer\obj\Debug\net5.0\refint\Demo.DataAccessLayer.dll
+D:\Route Course\Assignments\MVC\DemoMVC.G02\Demo.DataAccessLayer\obj\Debug\net5.0\Demo.DataAccessLayer.pdb
+D:\Route Course\Assignments\MVC\DemoMVC.G02\Demo.DataAccessLayer\obj\Debug\net5.0\ref\Demo.DataAccessLayer.dll
