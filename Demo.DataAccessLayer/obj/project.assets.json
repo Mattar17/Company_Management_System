@@ -6118,11 +6118,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Route Course\\Assignments\\MVC\\DemoMVC.G02\\Demo.DataAccessLayer\\Demo.DataAccessLayer.csproj",
+      "projectUniqueName": "D:\\Programming\\C#\\Company_Management_System\\Demo.DataAccessLayer\\Demo.DataAccessLayer.csproj",
       "projectName": "Demo.DataAccessLayer",
-      "projectPath": "D:\\Route Course\\Assignments\\MVC\\DemoMVC.G02\\Demo.DataAccessLayer\\Demo.DataAccessLayer.csproj",
+      "projectPath": "D:\\Programming\\C#\\Company_Management_System\\Demo.DataAccessLayer\\Demo.DataAccessLayer.csproj",
       "packagesPath": "C:\\Users\\Mattar\\.nuget\\packages\\",
-      "outputPath": "D:\\Route Course\\Assignments\\MVC\\DemoMVC.G02\\Demo.DataAccessLayer\\obj\\",
+      "outputPath": "D:\\Programming\\C#\\Company_Management_System\\Demo.DataAccessLayer\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Mattar\\AppData\\Roaming\\NuGet\\NuGet.Config",
