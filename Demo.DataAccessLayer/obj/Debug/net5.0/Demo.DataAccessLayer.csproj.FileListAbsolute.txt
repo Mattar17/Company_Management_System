@@ -10,3 +10,16 @@ D:\Route Course\Assignments\MVC\DemoMVC.G02\Demo.DataAccessLayer\obj\Debug\net5.
 D:\Route Course\Assignments\MVC\DemoMVC.G02\Demo.DataAccessLayer\obj\Debug\net5.0\refint\Demo.DataAccessLayer.dll
 D:\Route Course\Assignments\MVC\DemoMVC.G02\Demo.DataAccessLayer\obj\Debug\net5.0\Demo.DataAccessLayer.pdb
 D:\Route Course\Assignments\MVC\DemoMVC.G02\Demo.DataAccessLayer\obj\Debug\net5.0\ref\Demo.DataAccessLayer.dll
+D:\Programming\C#\Company_Management_System\Demo.DataAccessLayer\bin\Debug\net5.0\Demo.DataAccessLayer.deps.json
+D:\Programming\C#\Company_Management_System\Demo.DataAccessLayer\bin\Debug\net5.0\Demo.DataAccessLayer.dll
+D:\Programming\C#\Company_Management_System\Demo.DataAccessLayer\bin\Debug\net5.0\Demo.DataAccessLayer.pdb
+D:\Programming\C#\Company_Management_System\Demo.DataAccessLayer\obj\Debug\net5.0\Demo.DataAccessLayer.csproj.AssemblyReference.cache
+D:\Programming\C#\Company_Management_System\Demo.DataAccessLayer\obj\Debug\net5.0\Demo.DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\C#\Company_Management_System\Demo.DataAccessLayer\obj\Debug\net5.0\Demo.DataAccessLayer.AssemblyInfoInputs.cache
+D:\Programming\C#\Company_Management_System\Demo.DataAccessLayer\obj\Debug\net5.0\Demo.DataAccessLayer.AssemblyInfo.cs
+D:\Programming\C#\Company_Management_System\Demo.DataAccessLayer\obj\Debug\net5.0\Demo.DataAccessLayer.csproj.CoreCompileInputs.cache
+D:\Programming\C#\Company_Management_System\Demo.DataAccessLayer\obj\Debug\net5.0\Demo.DataAccessLayer.sourcelink.json
+D:\Programming\C#\Company_Management_System\Demo.DataAccessLayer\obj\Debug\net5.0\Demo.DataAccessLayer.dll
+D:\Programming\C#\Company_Management_System\Demo.DataAccessLayer\obj\Debug\net5.0\refint\Demo.DataAccessLayer.dll
+D:\Programming\C#\Company_Management_System\Demo.DataAccessLayer\obj\Debug\net5.0\Demo.DataAccessLayer.pdb
+D:\Programming\C#\Company_Management_System\Demo.DataAccessLayer\obj\Debug\net5.0\ref\Demo.DataAccessLayer.dll

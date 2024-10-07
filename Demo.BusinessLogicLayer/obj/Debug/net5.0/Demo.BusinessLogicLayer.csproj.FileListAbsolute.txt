@@ -13,3 +13,19 @@ D:\Route Course\Assignments\MVC\DemoMVC.G02\Demo.BusinessLogicLayer\obj\Debug\ne
 D:\Route Course\Assignments\MVC\DemoMVC.G02\Demo.BusinessLogicLayer\obj\Debug\net5.0\refint\Demo.BusinessLogicLayer.dll
 D:\Route Course\Assignments\MVC\DemoMVC.G02\Demo.BusinessLogicLayer\obj\Debug\net5.0\Demo.BusinessLogicLayer.pdb
 D:\Route Course\Assignments\MVC\DemoMVC.G02\Demo.BusinessLogicLayer\obj\Debug\net5.0\ref\Demo.BusinessLogicLayer.dll
+D:\Programming\C#\Company_Management_System\Demo.BusinessLogicLayer\bin\Debug\net5.0\Demo.BusinessLogicLayer.deps.json
+D:\Programming\C#\Company_Management_System\Demo.BusinessLogicLayer\bin\Debug\net5.0\Demo.BusinessLogicLayer.dll
+D:\Programming\C#\Company_Management_System\Demo.BusinessLogicLayer\bin\Debug\net5.0\Demo.BusinessLogicLayer.pdb
+D:\Programming\C#\Company_Management_System\Demo.BusinessLogicLayer\bin\Debug\net5.0\Demo.DataAccessLayer.dll
+D:\Programming\C#\Company_Management_System\Demo.BusinessLogicLayer\bin\Debug\net5.0\Demo.DataAccessLayer.pdb
+D:\Programming\C#\Company_Management_System\Demo.BusinessLogicLayer\obj\Debug\net5.0\Demo.BusinessLogicLayer.csproj.AssemblyReference.cache
+D:\Programming\C#\Company_Management_System\Demo.BusinessLogicLayer\obj\Debug\net5.0\Demo.BusinessLogicLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\C#\Company_Management_System\Demo.BusinessLogicLayer\obj\Debug\net5.0\Demo.BusinessLogicLayer.AssemblyInfoInputs.cache
+D:\Programming\C#\Company_Management_System\Demo.BusinessLogicLayer\obj\Debug\net5.0\Demo.BusinessLogicLayer.AssemblyInfo.cs
+D:\Programming\C#\Company_Management_System\Demo.BusinessLogicLayer\obj\Debug\net5.0\Demo.BusinessLogicLayer.csproj.CoreCompileInputs.cache
+D:\Programming\C#\Company_Management_System\Demo.BusinessLogicLayer\obj\Debug\net5.0\Demo.BusinessLogicLayer.sourcelink.json
+D:\Programming\C#\Company_Management_System\Demo.BusinessLogicLayer\obj\Debug\net5.0\Demo.Bus.95771080.Up2Date
+D:\Programming\C#\Company_Management_System\Demo.BusinessLogicLayer\obj\Debug\net5.0\Demo.BusinessLogicLayer.dll
+D:\Programming\C#\Company_Management_System\Demo.BusinessLogicLayer\obj\Debug\net5.0\refint\Demo.BusinessLogicLayer.dll
+D:\Programming\C#\Company_Management_System\Demo.BusinessLogicLayer\obj\Debug\net5.0\Demo.BusinessLogicLayer.pdb
+D:\Programming\C#\Company_Management_System\Demo.BusinessLogicLayer\obj\Debug\net5.0\ref\Demo.BusinessLogicLayer.dll
