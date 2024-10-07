@@ -38,7 +38,7 @@ namespace Demo.PL.Controllers
                     LastName = model.LastName,
                 };
 
-                var Result = await userManager.CreateAsync(User);
+                var Result = await userManager.CreateAsync(User,model.Password);
 
                 if (Result.Succeeded)
                 {

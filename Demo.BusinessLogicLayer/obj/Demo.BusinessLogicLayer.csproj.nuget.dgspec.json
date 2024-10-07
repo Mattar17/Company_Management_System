@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Route Course\\Assignments\\MVC\\DemoMVC.G02\\Demo.BusinessLogicLayer\\Demo.BusinessLogicLayer.csproj": {}
+    "D:\\Programming\\C#\\Company_Management_System\\Demo.BusinessLogicLayer\\Demo.BusinessLogicLayer.csproj": {}
   },
   "projects": {
-    "D:\\Route Course\\Assignments\\MVC\\DemoMVC.G02\\Demo.BusinessLogicLayer\\Demo.BusinessLogicLayer.csproj": {
+    "D:\\Programming\\C#\\Company_Management_System\\Demo.BusinessLogicLayer\\Demo.BusinessLogicLayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Route Course\\Assignments\\MVC\\DemoMVC.G02\\Demo.BusinessLogicLayer\\Demo.BusinessLogicLayer.csproj",
+        "projectUniqueName": "D:\\Programming\\C#\\Company_Management_System\\Demo.BusinessLogicLayer\\Demo.BusinessLogicLayer.csproj",
         "projectName": "Demo.BusinessLogicLayer",
-        "projectPath": "D:\\Route Course\\Assignments\\MVC\\DemoMVC.G02\\Demo.BusinessLogicLayer\\Demo.BusinessLogicLayer.csproj",
+        "projectPath": "D:\\Programming\\C#\\Company_Management_System\\Demo.BusinessLogicLayer\\Demo.BusinessLogicLayer.csproj",
         "packagesPath": "C:\\Users\\Mattar\\.nuget\\packages\\",
-        "outputPath": "D:\\Route Course\\Assignments\\MVC\\DemoMVC.G02\\Demo.BusinessLogicLayer\\obj\\",
+        "outputPath": "D:\\Programming\\C#\\Company_Management_System\\Demo.BusinessLogicLayer\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Mattar\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -29,8 +29,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "D:\\Route Course\\Assignments\\MVC\\DemoMVC.G02\\Demo.DataAccessLayer\\Demo.DataAccessLayer.csproj": {
-                "projectPath": "D:\\Route Course\\Assignments\\MVC\\DemoMVC.G02\\Demo.DataAccessLayer\\Demo.DataAccessLayer.csproj"
+              "D:\\Programming\\C#\\Company_Management_System\\Demo.DataAccessLayer\\Demo.DataAccessLayer.csproj": {
+                "projectPath": "D:\\Programming\\C#\\Company_Management_System\\Demo.DataAccessLayer\\Demo.DataAccessLayer.csproj"
               }
             }
           }
@@ -69,14 +69,14 @@
         }
       }
     },
-    "D:\\Route Course\\Assignments\\MVC\\DemoMVC.G02\\Demo.DataAccessLayer\\Demo.DataAccessLayer.csproj": {
+    "D:\\Programming\\C#\\Company_Management_System\\Demo.DataAccessLayer\\Demo.DataAccessLayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Route Course\\Assignments\\MVC\\DemoMVC.G02\\Demo.DataAccessLayer\\Demo.DataAccessLayer.csproj",
+        "projectUniqueName": "D:\\Programming\\C#\\Company_Management_System\\Demo.DataAccessLayer\\Demo.DataAccessLayer.csproj",
         "projectName": "Demo.DataAccessLayer",
-        "projectPath": "D:\\Route Course\\Assignments\\MVC\\DemoMVC.G02\\Demo.DataAccessLayer\\Demo.DataAccessLayer.csproj",
+        "projectPath": "D:\\Programming\\C#\\Company_Management_System\\Demo.DataAccessLayer\\Demo.DataAccessLayer.csproj",
         "packagesPath": "C:\\Users\\Mattar\\.nuget\\packages\\",
-        "outputPath": "D:\\Route Course\\Assignments\\MVC\\DemoMVC.G02\\Demo.DataAccessLayer\\obj\\",
+        "outputPath": "D:\\Programming\\C#\\Company_Management_System\\Demo.DataAccessLayer\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Mattar\\AppData\\Roaming\\NuGet\\NuGet.Config",

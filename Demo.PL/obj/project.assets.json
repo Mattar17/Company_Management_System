@@ -7856,11 +7856,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Route Course\\Assignments\\MVC\\DemoMVC.G02\\Demo.PL\\Demo.PL.csproj",
+      "projectUniqueName": "D:\\Programming\\C#\\Company_Management_System\\Demo.PL\\Demo.PL.csproj",
       "projectName": "Demo.PL",
-      "projectPath": "D:\\Route Course\\Assignments\\MVC\\DemoMVC.G02\\Demo.PL\\Demo.PL.csproj",
+      "projectPath": "D:\\Programming\\C#\\Company_Management_System\\Demo.PL\\Demo.PL.csproj",
       "packagesPath": "C:\\Users\\Mattar\\.nuget\\packages\\",
-      "outputPath": "D:\\Route Course\\Assignments\\MVC\\DemoMVC.G02\\Demo.PL\\obj\\",
+      "outputPath": "D:\\Programming\\C#\\Company_Management_System\\Demo.PL\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Mattar\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -7878,8 +7878,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "D:\\Route Course\\Assignments\\MVC\\DemoMVC.G02\\Demo.BusinessLogicLayer\\Demo.BusinessLogicLayer.csproj": {
-              "projectPath": "D:\\Route Course\\Assignments\\MVC\\DemoMVC.G02\\Demo.BusinessLogicLayer\\Demo.BusinessLogicLayer.csproj"
+            "D:\\Programming\\C#\\Company_Management_System\\Demo.BusinessLogicLayer\\Demo.BusinessLogicLayer.csproj": {
+              "projectPath": "D:\\Programming\\C#\\Company_Management_System\\Demo.BusinessLogicLayer\\Demo.BusinessLogicLayer.csproj"
             }
           }
         }
